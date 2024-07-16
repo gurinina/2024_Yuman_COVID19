@@ -1,1 +1,1 @@
-# 2024_Yumsn_COVID19
+# 2024_Yuman_COVID19: yeast COVOD19 translated
